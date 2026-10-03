@@ -1,0 +1,5 @@
+python-telegram-bot[job-queue]>=21.0
+requests>=2.31
+pytz>=2024.1
+# Optional: fallback HTML scraping of the F2 calendar
+beautifulsoup4>=4.12
